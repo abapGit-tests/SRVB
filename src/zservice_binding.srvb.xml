@@ -5,7 +5,6 @@
    <SRVB>
     <METADATA>
      <NAME>ZSERVICE_BINDING</NAME>
-     <VERSION>active</VERSION>
      <DESCRIPTION>test service binding</DESCRIPTION>
     </METADATA>
     <CONTENT>
@@ -38,7 +37,6 @@
       </item>
      </SERVICES>
     </CONTENT>
-    <PUBLISHED>true</PUBLISHED>
    </SRVB>
   </asx:values>
  </asx:abap>
